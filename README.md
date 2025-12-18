@@ -1,4 +1,4 @@
-# 📊 Mini Dashboard App
+# Mini Dashboard App
 
 A modern, feature-rich personal dashboard application built with Next.js, TypeScript, and TailwindCSS. Manage your tasks, take notes, and customize your experience with a beautiful dark mode theme.
 
@@ -8,64 +8,64 @@ A modern, feature-rich personal dashboard application built with Next.js, TypeSc
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-38B2AC?style=flat-square&logo=tailwind-css)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-## 🌟 Live Demo
+## Live Demo
 
-[**View Live Demo**](#) *(Add your deployed link here)*
+[**View Live Demo**](#)
 
-## 📸 Screenshots
+## Screenshots
 
 ### Light Mode
-![Dashboard Light Mode](./public/screenshots/light-mode.png)
+![Dashboard Light Mode](./public/LiveDemo/LightTheme.jpeg)
 *Clean and professional light theme interface*
 
 ### Dark Mode
-![Dashboard Dark Mode](./public/screenshots/dark-mode.png)
+![Dashboard Dark Mode](./public/LiveDemo//DarkTheme.jpeg)
 *Eye-friendly dark theme for late-night productivity*
 
 ### Features Overview
-![Features](./public/screenshots/features.png)
+![Task Maangement](./public/LiveDemo/Tasks.jpeg)
+![Notes](./public/LiveDemo/Notes.jpeg)
+![Setting](./public/LiveDemo/Setting.jpeg)
 *Task management, notes, and settings at your fingertips*
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎯 Task Management
-- ✅ Create, edit, and delete tasks
-- ✅ Mark tasks as complete
-- ✅ Real-time task counter
-- ✅ Persistent storage (data saved locally)
-- ✅ Bulk delete with confirmation dialog
+### Task Management
+- Create, edit, and delete tasks
+- Mark tasks as complete
+- Real-time task counter
+- Persistent storage (data saved locally)
+- Bulk delete with confirmation dialog
 
-### 📝 Note Taking
-- 📔 Create and organize notes
-- 📔 Rich text support with multi-line content
-- 📔 Edit existing notes
-- 📔 Timestamp tracking (created & updated)
-- 📔 Grid layout for better organization
+### Note Taking
+- Create and organize notes
+- Rich text support with multi-line content
+- Edit existing notes
+- Timestamp tracking (created & updated)
+- Grid layout for better organization
 
-### ⚙️ Settings & Customization
-- 🌓 Dark/Light/System theme modes
-- 🎨 Smooth theme transitions
-- 💾 Settings persistence across sessions
-- 🔄 Real-time theme switching
+### Settings & Customization
+- Dark/Light/System theme modes
+- Smooth theme transitions
+- Settings persistence across sessions
+- Real-time theme switching
 
-### 📊 Dashboard Analytics
-- 📈 Task completion statistics
-- 📈 Productivity percentage tracking
-- 📈 Total tasks and notes overview
-- 📈 Visual stat cards
+### Dashboard Analytics
+- Task completion statistics
+- Total tasks and notes overview
 
-### 🎨 UI/UX Excellence
-- 🖼️ Responsive design (mobile, tablet, desktop)
-- 🖼️ Modern, clean interface
-- 🖼️ Intuitive navigation
-- 🖼️ Accessible components
-- 🖼️ Smooth animations and transitions
+### UI/UX Excellence
+- Responsive design (mobile, tablet, desktop)
+- Modern, clean interface
+- Intuitive navigation
+- Accessible components
+- Smooth animations and transitions
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Framework
 - **Next.js 15** - React framework with App Router
@@ -88,7 +88,7 @@ A modern, feature-rich personal dashboard application built with Next.js, TypeSc
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -135,7 +135,7 @@ npm start
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 mini-dashboard/
@@ -165,7 +165,7 @@ mini-dashboard/
 
 ---
 
-## 🎯 Core Concepts Demonstrated
+## Core Concepts Demonstrated
 
 ### 1. **Component-Based Architecture**
 - Reusable UI components
@@ -194,23 +194,23 @@ mini-dashboard/
 
 ---
 
-## 🎓 What I Learned
+## What I Learned
 
 Building this project helped me master:
 
-- ✅ **Next.js App Router** - File-based routing and layouts
-- ✅ **TypeScript** - Type-safe React development
-- ✅ **Zustand** - Lightweight state management
-- ✅ **TailwindCSS** - Rapid UI development
-- ✅ **Component Libraries** - Integration and customization
-- ✅ **localStorage API** - Client-side data persistence
-- ✅ **Dark Mode** - CSS variables and theme switching
-- ✅ **Responsive Design** - Mobile-first approach
-- ✅ **Git & GitHub** - Version control and collaboration
+- **Next.js App Router** - File-based routing and layouts
+- **TypeScript** - Type-safe React development
+- **Zustand** - Lightweight state management
+- **TailwindCSS** - Rapid UI development
+- **Component Libraries** - Integration and customization
+- **localStorage API** - Client-side data persistence
+- **Dark Mode** - CSS variables and theme switching
+- **Responsive Design** - Mobile-first approach
+- **Git & GitHub** - Version control and collaboration
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 ### Planned Features
 - [ ] Task due dates and reminders
@@ -235,7 +235,7 @@ Building this project helped me master:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -247,23 +247,13 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author
-
-**Your Name**
-
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Next.js](https://nextjs.org/) - The React Framework
 - [shadcn/ui](https://ui.shadcn.com/) - Beautiful component library
@@ -273,7 +263,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Support
+## Support
 
 If you like this project, please consider:
 - ⭐ Starring the repository
@@ -282,9 +272,3 @@ If you like this project, please consider:
 - 📢 Sharing with others
 
 ---
-
-<div align="center">
-  Made with ❤️ and ☕
-  <br />
-  <sub>Built as a learning project to master modern web development</sub>
-</div>
