@@ -8,10 +8,6 @@ A modern, feature-rich personal dashboard application built with Next.js, TypeSc
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-38B2AC?style=flat-square&logo=tailwind-css)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-## Live Demo
-
-[**View Live Demo**](#)
-
 ## Screenshots
 
 ### Light Mode
